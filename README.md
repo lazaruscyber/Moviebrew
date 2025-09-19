@@ -13,6 +13,7 @@ Powered by our own in-house torrent client, HydraTorrent.
 
 ## PACKAGE INSTALLATION
 Use git clone to install and then cd into the folder.
+Change "clang" to "gcc" in Makefile if you are on WINDOWS.
 
 ## MANUAL INSTALL
 PLACE YOUR MAGNET LINKS IN movies_catalog.json. 
